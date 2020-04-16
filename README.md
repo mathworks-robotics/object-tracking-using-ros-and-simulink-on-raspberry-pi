@@ -12,7 +12,7 @@ The repository has two examples which are located in two different folders:
 
 The Raspberry Pi model has to be deployed on the hardware, whereas the Desktop model is to be run on the system. 
 
-## Setu
+## Setup
 1. Clone the repository.
 2. Open MATLAB and navigate to *PublishPi* or *PublishSubscribePi* folder.
 3. Open the Raspberry Pi model. Deploy the model on the hardware using Robot -> Build & Run. Installation of Raspberry Pi Support from Simulink would be necessary: 
