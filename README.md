@@ -19,4 +19,4 @@ The Raspberry Pi model has to be deployed on the hardware, whereas the Desktop m
 https://www.mathworks.com/hardware-support/raspberry-pi-simulink.html
 4. Open the Desktop model and **run** the model.
 
-For any queries, contact the authors at roboticsarena@mathworks.con 
+For any queries, contact the authors at roboticsarena@mathworks.com
